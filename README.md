@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/sneiiler/IPTV/main/iptv.m3u
 ```
 
 
-![JSDELIVR](https://cdn.jsdelivr.net/www.jsdelivr.com/bcc687f07462396d57b694ccd26ec58f6a543971/img/jsDelivr.logo.svg):
+![JSDELIVR](https://cdn.jsdelivr.net/www.jsdelivr.com/bcc687f07462396d57b694ccd26ec58f6a543971/img/jsDelivr.logo.svg)
 
 ```
 https://cdn.jsdelivr.net/gh/sneiiler/IPTV@main/iptv.m3u
