@@ -41,6 +41,16 @@ http://192.168.100.1:4022/rtp/239.3.1.184:8001
 http://192.168.100.1:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="[高清]卫视",BRTV北京卫视[高清]
 http://192.168.100.1:4022/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="[高清]卫视",BRTV北京新闻[高清]
+http://192.168.100.1:4022/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="[高清]卫视",BRTV北京文艺[高清]
+http://192.168.100.1:4022/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="[高清]卫视",BRTV北京影视[高清]
+http://192.168.100.1:4022/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="[高清]卫视",BRTV北京财经[高清]
+http://192.168.100.1:4022/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="[高清]卫视",BRTV北京生活[高清]
+http://192.168.100.1:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="[高清]卫视",湖南卫视[高清]
 http://192.168.100.1:4022/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="[高清]卫视",浙江卫视[高清]
